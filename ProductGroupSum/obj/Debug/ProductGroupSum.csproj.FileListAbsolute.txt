@@ -1,0 +1,5 @@
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSum\bin\Debug\ProductGroupSum.dll
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSum\bin\Debug\ProductGroupSum.pdb
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSum\obj\Debug\ProductGroupSum.csprojResolveAssemblyReference.cache
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSum\obj\Debug\ProductGroupSum.dll
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSum\obj\Debug\ProductGroupSum.pdb

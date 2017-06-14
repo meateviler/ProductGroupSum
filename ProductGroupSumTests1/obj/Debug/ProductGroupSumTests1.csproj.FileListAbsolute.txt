@@ -1,0 +1,9 @@
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSumTests1\bin\Debug\ProductGroupSumTests1.dll
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSumTests1\bin\Debug\ProductGroupSumTests1.pdb
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSumTests1\bin\Debug\nunit.framework.dll
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSumTests1\bin\Debug\ProductGroupSum.dll
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSumTests1\bin\Debug\ProductGroupSum.pdb
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSumTests1\bin\Debug\nunit.framework.xml
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSumTests1\obj\Debug\ProductGroupSumTests1.csprojResolveAssemblyReference.cache
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSumTests1\obj\Debug\ProductGroupSumTests1.dll
+c:\users\eviler.chuang99\documents\visual studio 2013\Projects\ProductGroupSum\ProductGroupSumTests1\obj\Debug\ProductGroupSumTests1.pdb
